@@ -3,7 +3,8 @@
 
 <table>
 <tr>
-<td style="width:50%;" valign="top">
+<td valign="top">
+<img src="https://github.com/mattkerlogue/mattkerlogue/raw/main/spacer.gif" width="400" height="1" />
 
 ### Personal
 
@@ -13,15 +14,10 @@
 - :bar_chart: I also make charts of [TidyTuesday data](http://github.com/mattkerlogue/tidytuesday)
 
 #### Recent tidytuesday charts
-<img src="https://github.com/mattkerlogue/tidytuesday/raw/main/2021/2021-02-02_hbcu.png" width="100" />
-<br />
-<img src="https://github.com/mattkerlogue/tidytuesday/raw/main/2021/2021-01-26_plastics.png" width="100" />
-<br />
-<img src="https://github.com/mattkerlogue/tidytuesday/raw/main/2021/2021-01-19_kenya_census.png" width="50" />
-<img src="https://github.com/mattkerlogue/tidytuesday/raw/main/2021/2021-01-12_tate_reasons_art_labelled.png" width="50" />
-
+<img src="https://github.com/mattkerlogue/tidytuesday/raw/main/2021/2021-02-02_hbcu.png" width="100" /><img src="https://github.com/mattkerlogue/tidytuesday/raw/main/2021/2021-01-26_plastics.png" width="100" /><img src="https://github.com/mattkerlogue/tidytuesday/raw/main/2021/2021-01-19_kenya_census.png" width="50" /><img src="https://github.com/mattkerlogue/tidytuesday/raw/main/2021/2021-01-12_tate_reasons_art_labelled.png" width="50" />
 </td>
-<td style="width:50%;" valign="top">
+<td valign="top">
+<img src="https://github.com/mattkerlogue/mattkerlogue/raw/main/spacer.gif" width="400" height="1" />
 
 ### Work
 
