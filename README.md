@@ -27,7 +27,9 @@
 - :speaking_head: I helped establish and the lead the [Civil Service People Survey](https://www.gov.uk/government/collections/civil-service-people-survey-hub), a project that remains close to my heart.
 - :bulb: I developed the OECD's model of [Core Skills for Public Sector Innovation](https://oecd-opsi.org/projects/innovation-skills/)
 
-##### Recent (public) projects
+
+#### Recent (public) projects
+
 - [`govuk-hugo`](https://co-analysis.github.io/govuk-hugo-demo/): a theme that brings the GOV.UK Design System to the Hugo static site builder, and an associated R package for rendering R Markdown within the govuk-hugo framework.
 - An [Analytical Coding Guide](https://co-analysis.github.io/coding-guide/) for [@co-analysis](https://github.com/co-analysis/) to standardise code-based approaches to analysis.
 - [Mapping the UK Civil Service](https://co-analysis.github.io/csmapping/): visualising the Civil Service's presence across the United Kingdom.
