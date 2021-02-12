@@ -1,29 +1,29 @@
-### :wave: Hi :wave:
+## :wave: Hi :wave:, I'm Matt, I do things with data
 
 
 <table>
 <tr>
 <td style="width:50%;" valign="top">
 
-#### Personal
+### Personal
 
 - :memo: I (occasionally) blog at [The Lapsed Geographer](https://lapsedgeographer.london/)
 - :loudspeaker: I (occasionally) tweet at [@mattkerlogue](https://twitter.com/mattkerlogue)
 - :robot: I have a Twitter bot that navigates the UK canal network, the [@narrowbotR](https://twitter.com/narrowbotR), ([repo](http://github.com/mattkerlogue/narrowbotR))
 - :bar_chart: I also make charts of [TidyTuesday data](http://github.com/mattkerlogue/tidytuesday)
 
-##### Recent tidytuesday charts
-<img src="https://github.com/mattkerlogue/tidytuesday/raw/main/2021/2021-02-02_hbcu.png" width="200" />
+#### Recent tidytuesday charts
+<img src="https://github.com/mattkerlogue/tidytuesday/raw/main/2021/2021-02-02_hbcu.png" width="100" />
 <br />
-<img src="https://github.com/mattkerlogue/tidytuesday/raw/main/2021/2021-01-26_plastics.png" width="200" />
+<img src="https://github.com/mattkerlogue/tidytuesday/raw/main/2021/2021-01-26_plastics.png" width="100" />
 <br />
-<img src="https://github.com/mattkerlogue/tidytuesday/raw/main/2021/2021-01-19_kenya_census.png" width="100" />
-<img src="https://github.com/mattkerlogue/tidytuesday/raw/main/2021/2021-01-12_tate_reasons_art_labelled.png" width="100" />
+<img src="https://github.com/mattkerlogue/tidytuesday/raw/main/2021/2021-01-19_kenya_census.png" width="50" />
+<img src="https://github.com/mattkerlogue/tidytuesday/raw/main/2021/2021-01-12_tate_reasons_art_labelled.png" width="50" />
 
 </td>
 <td style="width:50%;" valign="top">
 
-#### Work
+### Work
 
 - :classical_building: I'm a data scientist in the UK public sector. Specificaly at [@co-analysis](https://github.com/co-analysis), where I help other analyst make better use of their data through code-based approaches.
 - :man_technologist: I largely work in [R](https://www.r-project.org), as well as HTML/CSS/JS.
