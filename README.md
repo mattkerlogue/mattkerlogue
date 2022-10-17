@@ -1,3 +1,7 @@
 # :wave: Hi :wave:, I'm Matt, I do things with data
 
-I am a senior analyst and data scientist working in the public sector ([@co-analysis](https://github.com/co-analysis/)), my work is largely concentrated on helping other analysts make better use of new tools and techniques. I also occasionally write posts to my [personal blog](https://lapsedgeographer.london/) about coding (largely in R) and I sometimes occasionally [tweet](https://twitter.com/mattkerlogue).
+I’m a freelance data science, analysis and visualisation consultant based in London. I have a passion for data storytelling and making analytical insights accessible to all, particularly for the public good. I have subject specialism in public governance, organisational effectiveness, employee engagement, and software development for reproducible analysis.
+
+I work largely in R, alongside HTML/CSS and JavaScript. I am also comfortable working with Python and SQL as well as having experience of a number of other programming languages.
+
+I’m on Twitter, where I’m [@mattkerlogue](https://www.twitter.com/mattkerlogue), I also blog from time to time as [The Lapsed Geographer](http://lapsedgeographer.london/).
