@@ -4,4 +4,4 @@ I’m a freelance data science, analysis and visualisation consultant based in L
 
 I work largely in R, alongside HTML/CSS and JavaScript. I am also comfortable working with Python and SQL as well as having experience of a number of other programming languages.
 
-I’m on Twitter, where I’m [@mattkerlogue](https://www.twitter.com/mattkerlogue), I also blog from time to time as [The Lapsed Geographer](http://lapsedgeographer.london/).
+I’m on [Twitter](https://www.twitter.com/mattkerlogue) and <a rel="me" href="https://fosstodon.org/@mattkerlogue">Mastodon</a>. I also blog from time to time as [The Lapsed Geographer](http://lapsedgeographer.london/).
